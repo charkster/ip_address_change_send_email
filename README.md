@@ -5,7 +5,7 @@ This can be setup on a raspberry pi with internet access. I set it up using the 
 
 "crontab.txt" is the crontab entry that calls the "check_ip.sh" script.
 
-"email_message.txt" is the email template that check_ip.sh will append the new ip address to.
+"email_message.txt" is the email template that check_ip.sh will append the new ip address to when it creates a temporary email message to send.
 
 "workingip.txt" is a file that contains the latest ip address, which check_ip.sh compares against.
 
