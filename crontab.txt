@@ -1,0 +1,1 @@
+02    * * * * /root/check_ip.sh > /dev/null 2>&1
