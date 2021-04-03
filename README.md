@@ -9,5 +9,5 @@ This can be setup on a raspberry pi with internet access. I set it up using the 
 
 "workingip.txt" is a file that contains the latest ip address, which "check_ip.sh" compares against.
 
-"msmtprc" is a sample configuration file used by msmtp to send the email using a gmail account. It is located in /etc
+"msmtprc" is a sample configuration file used by msmtp to send the email using a -less-secure-gmail account. It is located in /etc
 
