@@ -1,7 +1,7 @@
 # ip_address_change_send_email
 A script to run on crontab which will email you if your ip address changes. I used to use dynamic DNS, but did not want to pay for it anymore.
 
-This can be setup on a raspberry pi with internet access. I set it up using the root user. All the files except "msmtprs" reside in the /root directory
+This can be setup on a raspberry pi with internet access. I set it up using the root user. All the files except "msmtprc" reside in the /root directory
 
 "crontab.txt" is the crontab entry that calls the "check_ip.sh" script.
 
